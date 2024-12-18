@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactFlight.Server", "ReactFlight.Server\ReactFlight.Server.csproj", "{B1489DB0-E0AD-4072-B1A6-7AF88AF3D59E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactflight.client", "reactflight.client\reactflight.client.esproj", "{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1489DB0-E0AD-4072-B1A6-7AF88AF3D59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1489DB0-E0AD-4072-B1A6-7AF88AF3D59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1489DB0-E0AD-4072-B1A6-7AF88AF3D59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1489DB0-E0AD-4072-B1A6-7AF88AF3D59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3BD9BC-2DD9-45E5-865F-3B505E62C19D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD17CF9-7C33-424B-A533-C05AF844A4AB}
+	EndGlobalSection
+EndGlobal
